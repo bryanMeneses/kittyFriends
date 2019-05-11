@@ -1,0 +1,2 @@
+export const GET_KITTIES = 'GET_KITTIES'
+export const SEARCH_FIELD = 'SEARCH_FIELD'
