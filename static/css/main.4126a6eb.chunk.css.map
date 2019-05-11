@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,UACI,YACJ,CACA,KACI,oGAAgE,CAAhE,gEAAgE,CAAhE,yDACJ","file":"main.4126a6eb.chunk.css","sourcesContent":["html, body {\n    height: 100%!;\n}\nbody {\n    background: linear-gradient(0.25turn, #3f87a6, #ebf8e1, #f69d3c);\n}"]}
